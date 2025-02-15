@@ -2,11 +2,14 @@
 
 
 # 💫 About Me:
-👾 Multimedia Engineer focused on front-end development and UX/UI.
-🧪 Passionate about creating multimedia content and integrating it into my projects.
-🎓 Always learning and improving.
-🏠 Lives in Cundinamarca, Colombia
-🎉 Hobbies: 🍕💪🏃‍♂️🎮
+<p>
+  I'm a front-end developer passionate about design and multimedia content. I love learning and constantly expanding my knowledge to take on new challenges and build tools creatively and efficiently.
+</p>
+👾 Multimedia Engineer focused on front-end development and UX/UI. </br>
+🧪 Passionate about creating multimedia content and integrating it into my projects.</br>
+🎓 Always learning and improving. </br>
+🏠 Lives in Cundinamarca, Colombia. </br>
+🎉 Hobbies: 🍕💪🏃‍♂️🎮 </br>
 
 
 # 💻 Tech Stack:
