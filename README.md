@@ -31,7 +31,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vite,git,github,gmail&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vite,git,github,gmail)](https://skillicons.dev) <!--  &perline=4  dividir habilidades en filas  -->
 </br>
 </br>
 
