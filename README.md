@@ -19,14 +19,18 @@
 
 # 💫 About Me:
 <p>
-  As a front-End Developer, I specialize in building responsive, accessible, and user-centered interfaces using technologies like React, Next.js, JavaScript, HTML, CSS, and TailwindCSS. 
-  I enjoy combining design and development to create functional, visually appealing, and high-performance digital products.
+  As a front-end developer, I'm passionate about creating visually engaging websites that provide impactful digital tools and adapt seamlessly to all devices. With a background in multimedia engineering, I excel at producing high-quality content and integrating it into my development projects.
 </p>
+
+<h3>Technologies:</h3>
+React & Next,js: Building
+
+
 👾 Multimedia Engineer focused on front-end development and UX/UI. </br>
 🧪 Passionate about creating multimedia content and integrating it into my projects.</br>
 🎓 Always learning and improving. </br>
 🏠 Lives in Cundinamarca, Colombia. </br>
-🎉 Hobbies: 🍕💪🏃‍♂️🎮 </br>
+🎉 Hobbies: 🍕💪🏃‍♂️🎮 </br>   
 </br>
 
 
