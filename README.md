@@ -25,7 +25,6 @@
 👾 Multimedia Engineer focused on front-end development and UX/UI. </br>
 🧪 Passionate about creating multimedia content and integrating it into my projects.</br>
 🎓 Always learning and improving. </br>
-🏠 Lives in Cundinamarca, Colombia. </br>
 🎉 Hobbies: 🍕💪🏃‍♂️🎮 </br>   
 
 <h3>Technologies:</h3>
@@ -33,9 +32,6 @@ React & Next,js: Building responsive and optimized websites. </br>
 JavaScript & TypeScript: OOP, component reuse, and backend connections. </br>
 CSS & TailwindCSS: Impactful and visually appealing designs. </br>
 Git & Github: Version control. </br>
-
-
-
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vite,git,github,gmail)](https://skillicons.dev) <!--  &perline=4  dividir habilidades en filas  -->
