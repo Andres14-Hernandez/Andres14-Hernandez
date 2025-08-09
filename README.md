@@ -25,7 +25,7 @@
 👾 Multimedia Engineer focused on front-end development and UX/UI. </br>
 🧪 Passionate about creating multimedia content and integrating it into my projects.</br>
 🎓 Always learning and improving. </br>
-🎉 Hobbies: 🍕💪🏃‍♂️🎮 </br>   
+👈 Visit my portfolio   
 
 <h3>Technologies:</h3>
 React & Next,js: Building responsive and optimized websites. </br>
